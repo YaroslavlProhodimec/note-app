@@ -45,7 +45,7 @@ export const Navbar = () => {
                                 Enter Jotion
                             </Link>
                         </Button>
-                        <UserButton afterSignOutUrl={'/'}/>
+                        <UserButton showName   afterSignOutUrl={'/'}/>
 
                     </>
                 )}
